@@ -1,6 +1,34 @@
 
 
-  <!-- Animated Header Banner -->
+ <p align="center">
+  <img src="https://img.shields.io/badge/Sustha%20Jiban-Medical%20Centre-blue?style=for-the-badge&logo=heartbeat" alt="Sustha Jiban Medical Centre" />
+</p>
+
+<h1 align="center">🏥 Sustha Jiban Medical Centre</h1>
+
+<p align="center">
+  <b>সুস্থ জীবন মেডিকেল সেন্টার</b><br>
+  <em>Advanced Healthcare Management System</em>
+</p>
+
+<p align="center">
+  <a href="https://susthajiban.up.railway.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-success?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+  <a href="https://digitaledgesolutions.cloud/">
+    <img src="https://img.shields.io/badge/Developed_By-Digital_Edge_Solutions-purple?style=for-the-badge&logo=cloud" alt="Digital Edge Solutions" />
+  </a>
+</p>
+
+---
+
+## 🌟 Project Overview
+
+**Sustha Jiban Medical Centre** is a comprehensive, full-stack healthcare management platform developed for a **Kolkata-based super speciality hospital**. The system streamlines patient appointments, doctor management, and administrative operations with a modern, bilingual (English/Bengali) interface.
+
+> 🏆 **Live Application:** [https://susthajiban.up.railway.app/](https://susthajiban.up.railway.app/)
+
+--- <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sustha%20Jiban%20Medical%20Centre&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Advanced%20Healthcare%20Management%20System&descAlignY=55&descSize=18" width="100%"/>
 
   <!-- Bengali Tagline -->
