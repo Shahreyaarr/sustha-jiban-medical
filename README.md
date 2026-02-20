@@ -28,8 +28,8 @@
 
 > 🏆 **Live Application:** [https://susthajiban.up.railway.app/](https://susthajiban.up.railway.app/)
 
---- <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sustha%20Jiban%20Medical%20Centre&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Advanced%20Healthcare%20Management%20System&descAlignY=55&descSize=18" width="100%"/>
+                                       --- <!-- Animated Header Banner -->
+                                   <img src="https://capsule-render.vercel.app/api?                 type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sustha%20Jiban%20Medical%20Centre&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Advanced%20Healthcare%20Management%20System&descAlignY=55&descSize=18" width="100%"/>
 
   <!-- Bengali Tagline -->
   <h3>সুস্থ জীবন মেডিকেল সেন্টার</h3>
